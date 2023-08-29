@@ -42,12 +42,10 @@ h1 {
 }
 
 .sdiv {
-    width: 300px;
-    height: 300px;
-    gap: 15px;
-    padding: 30px;
-    margin: 10px;
-}
+    width: 250px;
+    height: 275px;
+    
+   }
 
 .img {
     width: 75px;
